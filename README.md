@@ -1,4 +1,4 @@
-# LCRN06 - Expense Tracker App
+# LCRN07 - Expense Tracker App
 
 ## [Watch it on YouTube](https://youtu.be/uBcpWOQqbAQ)
 
